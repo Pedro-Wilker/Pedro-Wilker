@@ -1,4 +1,4 @@
-### Koe 🤓
+### Koe 😁
 
 - 📜 Procurando um estagio em desenvolvimento web/programacao em C
 - 📚 Atualmente estou estudando JavaScrip
