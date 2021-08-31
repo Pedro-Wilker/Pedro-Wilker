@@ -1,8 +1,8 @@
 ### Koe 🤓
 
 - 📜 Procurando um estagio em desenvolvimento web/programacao em C
-- 🤓 Atualmente estou estudando JavaScrip
-- 🎓 Ciencia da computacao
+- 📚 Atualmente estou estudando JavaScrip
+- 📖 Ciencia da computacao
 - Bebam água 💧 Comam frutas 🍉
 
  ##
