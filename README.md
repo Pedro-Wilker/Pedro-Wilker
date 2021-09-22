@@ -2,7 +2,7 @@
 
 - 📜 Procurando um estagio em desenvolvimento web/programacao em C
 - 📚 Atualmente estou estudando JavaScript
-- 📖 Ciencia da computacao
+- 📖 Ciência da Computação
 
 
  ##
