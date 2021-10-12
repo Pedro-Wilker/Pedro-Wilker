@@ -1,6 +1,6 @@
 ### Koe 😁
 
-- 📜 Procurando um estagio em desenvolvimento web/programacao em C
+- 📜 Procurando um estagio em desenvolvimento web/programacao
 - 📚 Atualmente estou estudando JavaScript
 - 📖 Ciência da Computação
 
