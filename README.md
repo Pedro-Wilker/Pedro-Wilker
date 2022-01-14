@@ -1,4 +1,4 @@
-### Koe 😁
+### Hi 😁
 
 - 📜 Procurando um estagio em desenvolvimento web/programacao
 - 📚 Atualmente estou estudando JavaScript
