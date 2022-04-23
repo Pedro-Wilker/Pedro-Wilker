@@ -1,4 +1,4 @@
-### Olá, meu é Pedro e eu sou um Developer
+### Olá, meu é Pedro e eu sou um dev
 
 - 📜 Procurando um estágio em desenvolvimento web
 - 📚 JAVA,JAVASCRIPT e python
