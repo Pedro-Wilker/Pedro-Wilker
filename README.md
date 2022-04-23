@@ -3,7 +3,7 @@
 - 📜 Procurando um estágio em desenvolvimento web
 - 📚 JAVA,JAVASCRIPT e python
 - 📖 Ciência da Computação
-- ✍️ Frameworks:React e React Native
+- ✍️ Frameworks: React e React Native
 
  ##
 
