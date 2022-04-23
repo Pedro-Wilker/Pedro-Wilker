@@ -1,9 +1,9 @@
-### Hi 😁
+### Olá, meu é Pedro e eu sou um Developer
 
-- 📜 Procurando um estagio em desenvolvimento web/programacao
-- 📚 Atualmente estou estudando JavaScript
+- 📜 Procurando um estágio em desenvolvimento web
+- 📚 JAVA,JAVASCRIPT e python
 - 📖 Ciência da Computação
-
+- ✍️ Frameworks:React e React Native
 
  ##
 
@@ -23,7 +23,6 @@
  ##
   
 <div> 
-  <a href="https://twitter.com/BLUBR113" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/pedro-wilker-4a6b96217/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>  
   
