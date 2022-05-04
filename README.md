@@ -1,7 +1,7 @@
 ### Olá, meu é Pedro
 
 - 📜 Procurando um estágio em desenvolvimento web
-- 📚 JAVA,JAVASCRIPT e python
+- 📚 JAVA,JAVASCRIPT e PYTHON 
 - 📖 Ciência da Computação
 - ✍️ Frameworks: React e React Native
 
