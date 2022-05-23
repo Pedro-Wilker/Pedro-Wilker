@@ -1,4 +1,4 @@
-### Olá, meu é Pedro
+### Olá, meu é nome Pedro
 
 - 📜 Procurando um estágio em desenvolvimento web
 - 📚 JAVA,JAVASCRIPT e PYTHON 
