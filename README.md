@@ -1,7 +1,9 @@
 ### Olá, eu sou Pedro Wilker 🖐️
 
 - 📜 Procurando um estágio em desenvolvimento web
-- 📚 JAVA,JAVASCRIPT e PYTHON 
+- 📚 JAVA,JAVASCRIPT,PYTHON, C, C++.
+- 📚 PHP
+- 📖 Atualmente faço o curso de analise de dados da google e curso de desenvolvimento web
 - 📖 Ciência da Computação
 - ✍️ Frameworks: React e React Native
 
