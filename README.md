@@ -1,4 +1,4 @@
-### Olá, meu é nome Pedro
+### Olá, eu sou Pedro Wilker 🖐️
 
 - 📜 Procurando um estágio em desenvolvimento web
 - 📚 JAVA,JAVASCRIPT e PYTHON 
@@ -21,9 +21,6 @@
 </div>  
 
  ##
-  
-<div> 
-  <a href="https://www.linkedin.com/in/pedro-wilker-4a6b96217/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-</div>  
-  
+ 
+ [![linkedin](	https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-wilker-4a6b96217/)
 ##
