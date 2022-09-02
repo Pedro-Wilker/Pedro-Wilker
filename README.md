@@ -28,7 +28,7 @@
   <img align="center" alt="Pedro-PHP" heigth="85" width="85" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
 </div>
 <br>
-<h3>Atualmente tenho estudado Desenvolvimento Web e analise de dados. </h3>
+<h3>O Futuro tende a chegar mais cedo do que você imagina</h3>
 
  ##
  
