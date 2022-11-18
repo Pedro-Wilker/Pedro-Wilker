@@ -27,7 +27,7 @@
  ##
  
  ### 📚 Coding in:
-<a href="https://code.visualstudio.com" target="_blank"> ![VSCode Badge](https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white)</a>
+<a  href="https://code.visualstudio.com" target="_blank"> ![VSCode Badge](https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white)</a>
 <a href="https://nodejs.org" target="_blank"> ![Node.js Badge](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)</a>
 <a href="https://reactjs.org/" target="_blank"> ![React Badge](https://img.shields.io/badge/-React-blue?style=flat&logo=React&logoColor=white)</a>
 
