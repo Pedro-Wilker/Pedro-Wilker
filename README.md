@@ -1,6 +1,13 @@
 # :man_technologist: Pedro Wilker - Software Developer
 
+<p align="center">
+  <img width="290px" src="https://user-images.githubusercontent.com/81252209/202707078-aacf18dc-c5ee-4a1d-9d12-f4ce4dd8d268.gif" />
+</p>
 
+
+
+ My name is Pedro Wilker, i am a computer science student. I entered the technology field at the age of 20 and today I study data analysis and web developer [
+](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2F643451865504790507%2F&psig=AOvVaw2SkhnBVkaILCnEBaRUTwmp&ust=1668861454684000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCLDFwcPft_sCFQAAAAAdAAAAABAE)
 ### 📖 Estudando:
 <a href="https://www.w3schools.com/html/" target="_blank"> ![HTML5 Badge](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)</a>
 <a href="https://www.w3schools.com/css/" target="_blank"> ![CSS3 Badge](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)</a>
