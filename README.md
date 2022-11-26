@@ -50,7 +50,7 @@
 </div>
   
 <br>
-<h3>"O Futuro tende a chegar mais cedo do que você imagina"</h3>
+<h3 align="center">"O Futuro tende a chegar mais cedo do que você imagina"</h3>
 
  ##
  
