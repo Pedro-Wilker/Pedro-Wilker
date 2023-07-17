@@ -1,7 +1,8 @@
 
 <p align="center">
-  <img width="290px" src="https://user-images.githubusercontent.com/81252209/202707078-aacf18dc-c5ee-4a1d-9d12-f4ce4dd8d268.gif" />
+  <img width="600px" src="https://github.com/Pedro-Wilker/Pedro-Wilker/assets/81252209/a8c2de40-e16e-49f1-8f97-829cf16423a6" />
 </p>
+
 
 
 # :man_technologist: Pedro Wilker - Software Developer
