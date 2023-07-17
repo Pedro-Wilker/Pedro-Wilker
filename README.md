@@ -1,10 +1,12 @@
-# :man_technologist: Pedro Wilker - Software Developer
 
 <p align="center">
   <img width="290px" src="https://user-images.githubusercontent.com/81252209/202707078-aacf18dc-c5ee-4a1d-9d12-f4ce4dd8d268.gif" />
 </p>
 
-##
+
+# :man_technologist: Pedro Wilker - Software Developer
+
+
 <br/>
  My name is Pedro Wilker, i am a computer science student. I entered the technology field at the age of 20 and today I study data analysis and web developer 
 
