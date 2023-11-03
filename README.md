@@ -39,7 +39,7 @@ Hello, I'm Pedro Wilker, a computer science student passionate about technology.
 
   
 
-## :link: 🕵️‍♂️ Projects
+## 🕵️‍♂️ Projects
 - <h2 style="font-size: 18px; font-family: sans-serif;">🗽 <a href="https://github.com/Pedro-Wilker/Finans" style="text-decoration: none;" >Finans</a> </h2>
 - <h2 style="font-size: 18px; font-family: sans-serif;">🖥 <a href="https://github.com/Pedro-Wilker/Clone-YoutubeReact" style="text-decoration: none;" >Clone Youtube</a> </h2>
 - <h2 style="font-size: 18px; font-family: sans-serif;">👨‍🌾📲 <a href="https://github.com/Pedro-Wilker/App-Orcamento-Fazendas" style="text-decoration: none;" >APP Budget Farms</a> </h2>
