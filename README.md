@@ -44,11 +44,11 @@ Hello, I'm Pedro Wilker, a computer science student passionate about technology.
 - <h2 style="font-size: 18px; font-family: sans-serif;">🖥 <a href="https://github.com/Pedro-Wilker/Clone-YoutubeReact" style="text-decoration: none;" >Clone Youtube</a> </h2>
 - <h2 style="font-size: 18px; font-family: sans-serif;">👨‍🌾📲 <a href="https://github.com/Pedro-Wilker/App-Orcamento-Fazendas" style="text-decoration: none;" >APP Budget Farms</a> </h2>
 - <h2 style="font-size: 18px; font-family: sans-serif;">📰 <a href="https://github.com/Pedro-Wilker/tecblog" style="text-decoration: none;" >TecBlog</a> </h2>
-- <h2 style="font-size: 18px; font-family: sans-serif;">🐱<a href="https://github.com/Pedro-Wilker/Pokedex-G1" style="text-decoration: none;" >PokeDex</a> </h2>
-- <h2 style="font-size: 18px; font-family: sans-serif;">📡<a href="https://github.com/Pedro-Wilker/Radar" style="text-decoration: none;" >Object Detector Radar</a> </h2>
-- <h2 style="font-size: 18px; font-family: sans-serif;">🧠<a href="https://github.com/Pedro-Wilker/Jogo-da-Memoria" style="text-decoration: none;" >Rick and Morty Memory Game</a> </h2>
-- <h2 style="font-size: 18px; font-family: sans-serif;">📩<a href="https://github.com/Pedro-Wilker/MPEMAIL" style="text-decoration: none;" >MPEMAIL</a> </h2>
-- <h2 style="font-size: 18px; font-family: sans-serif;">🦟<a href="https://github.com/Pedro-Wilker/GameMataMosquito" style="text-decoration: none;" >Mosquito Killer</a> </h2>
+- <h2 style="font-size: 18px; font-family: sans-serif;">🐱 <a href="https://github.com/Pedro-Wilker/Pokedex-G1" style="text-decoration: none;" >PokeDex</a> </h2>
+- <h2 style="font-size: 18px; font-family: sans-serif;">📡 <a href="https://github.com/Pedro-Wilker/Radar" style="text-decoration: none;" >Object Detector Radar</a> </h2>
+- <h2 style="font-size: 18px; font-family: sans-serif;">🧠 <a href="https://github.com/Pedro-Wilker/Jogo-da-Memoria" style="text-decoration: none;" >Rick and Morty Memory Game</a> </h2>
+- <h2 style="font-size: 18px; font-family: sans-serif;">📩 <a href="https://github.com/Pedro-Wilker/MPEMAIL" style="text-decoration: none;" >MPEMAIL</a> </h2>
+- <h2 style="font-size: 18px; font-family: sans-serif;">🦟 <a href="https://github.com/Pedro-Wilker/GameMataMosquito" style="text-decoration: none;" >Mosquito Killer</a> </h2>
 
 
 ## :link: Social:
