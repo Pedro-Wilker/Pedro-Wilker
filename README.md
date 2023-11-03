@@ -30,22 +30,25 @@ Hello, I'm Pedro Wilker, a computer science student passionate about technology.
 - ![React Badge](https://img.shields.io/badge/-React-blue?style=flat&logo=React&logoColor=white)
 - ![Angular Badge](https://img.shields.io/badge/-Angular-FF0000?style=flat&logo=angular&logoColor=white)
 
-## :link: 🕵️‍♂️ Projetos
+
+## :link: 🤵 Experience
+- <h3> Desenvolvedor de Software na Emepresa Sistemica (2023 - Presente) </h3>
+- <h3> Estagiário de Desenvolvimento de Sistemas na Empresa SMART4SISTEMAS (2023- Presente) </h3>
+<hr/>
+
+
+  
+
+## :link: 🕵️‍♂️ Projects
 - <h2 style="font-size: 18px; font-family: sans-serif;">🗽 <a href="https://github.com/Pedro-Wilker/Finans" style="text-decoration: none;" >Finans</a> </h2>
 - <h2 style="font-size: 18px; font-family: sans-serif;">🖥 <a href="https://github.com/Pedro-Wilker/Clone-YoutubeReact" style="text-decoration: none;" >Clone Youtube</a> </h2>
-- <h2 style="font-size: 18px; font-family: sans-serif;">👨‍🌾📲 <a href="https://github.com/Pedro-Wilker/App-Orcamento-Fazendas" style="text-decoration: none;" >App Orcamento Fazendas</a> </h2>
+- <h2 style="font-size: 18px; font-family: sans-serif;">👨‍🌾📲 <a href="https://github.com/Pedro-Wilker/App-Orcamento-Fazendas" style="text-decoration: none;" >APP Budget Farms</a> </h2>
 - <h2 style="font-size: 18px; font-family: sans-serif;">📰 <a href="https://github.com/Pedro-Wilker/tecblog" style="text-decoration: none;" >TecBlog</a> </h2>
 - <h2 style="font-size: 18px; font-family: sans-serif;">🐱<a href="https://github.com/Pedro-Wilker/Pokedex-G1" style="text-decoration: none;" >PokeDex</a> </h2>
-- <h2 style="font-size: 18px; font-family: sans-serif;">📡<a href="https://github.com/Pedro-Wilker/Radar" style="text-decoration: none;" >Radar Detector de Objetos</a> </h2>
-- <h2 style="font-size: 18px; font-family: sans-serif;">🧠<a href="https://github.com/Pedro-Wilker/Jogo-da-Memoria" style="text-decoration: none;" >Jogo Da Memória Rick and Morty</a> </h2>
+- <h2 style="font-size: 18px; font-family: sans-serif;">📡<a href="https://github.com/Pedro-Wilker/Radar" style="text-decoration: none;" >Object Detector Radar</a> </h2>
+- <h2 style="font-size: 18px; font-family: sans-serif;">🧠<a href="https://github.com/Pedro-Wilker/Jogo-da-Memoria" style="text-decoration: none;" >Rick and Morty Memory Game</a> </h2>
 - <h2 style="font-size: 18px; font-family: sans-serif;">📩<a href="https://github.com/Pedro-Wilker/MPEMAIL" style="text-decoration: none;" >MPEMAIL</a> </h2>
-- <h2 style="font-size: 18px; font-family: sans-serif;">🦟<a href="https://github.com/Pedro-Wilker/GameMataMosquito" style="text-decoration: none;" >Mata Mosquito</a> </h2>
-
-
-## :link: 🤵 Experiência
-- Desenvolvedor de Software na Emepresa Sistemica (2023 - Presente)
-- Estagiário de Desenvolvimento de Sistemas na Empresa SMART4SISTEMAS (2023- Presente) 
-
+- <h2 style="font-size: 18px; font-family: sans-serif;">🦟<a href="https://github.com/Pedro-Wilker/GameMataMosquito" style="text-decoration: none;" >Mosquito Killer</a> </h2>
 
 
 ## :link: Social:
@@ -61,4 +64,4 @@ Hello, I'm Pedro Wilker, a computer science student passionate about technology.
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedro-wilker&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
-<h3 align="center">"O futuro tende a chegar mais cedo do que você imagina."</h3>
+<h3 align="center">"The future tends to come sooner than you think."</h3>
