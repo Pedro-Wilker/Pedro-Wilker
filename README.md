@@ -1,59 +1,64 @@
-
 <p align="center">
   <img width="600px" src="https://github.com/Pedro-Wilker/Pedro-Wilker/assets/81252209/a8c2de40-e16e-49f1-8f97-829cf16423a6" />
 </p>
 
-
-
 # :man_technologist: Pedro Wilker - Software Developer
 
+Hello, I'm Pedro Wilker, a computer science student passionate about technology. I started my journey in the tech world at the age of 20, and today I'm focused on data analysis and web development.
 
-<br/>
- My name is Pedro Wilker, i am a computer science student. I entered the technology field at the age of 20 and today I study data analysis and web developer 
+## 📖 Studying:
 
-##
+- ![HTML5 Badge](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+- ![CSS3 Badge](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+- ![JavaScript Badge](https://img.shields.io/badge/-JavaScript-yellow?style=flat&logo=javascript&logoColor=white)
 
-### 📖 Estudando:
-<a href="https://www.w3schools.com/html/" target="_blank"> ![HTML5 Badge](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)</a>
-<a href="https://www.w3schools.com/css/" target="_blank"> ![CSS3 Badge](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)</a>
-<a href="https://www.javascript.com/" target="_blank"> ![JavaScript Badge](https://img.shields.io/badge/-JavaScript-yellow?style=flat&logo=javascript&logoColor=white)</a>
+## 📜  Languages:
 
-##
+- ![JavaScript Badge](https://img.shields.io/badge/-JavaScript-yellow?style=flat&logo=javascript&logoColor=white)
+- ![Python Badge](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+- ![Java Badge](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+- ![PHP Badge](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+- ![TypeScript Badge](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+- ![C Badge](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
+- ![C++ Badge](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+- ![C# Badge](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 
-### 📜  Linguagens: 
- <a href="https://www.javascript.com/" target="_blank"> ![JavaScript Badge](https://img.shields.io/badge/-JavaScript-yellow?style=flat&logo=javascript&logoColor=white)</a> 
-<br/>
-  <img align="center" alt="Pedro-Python"  src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-  <img align="center" alt="Pedro-Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"> 
-  <img align="center" alt="Pedro-PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"><br/>
+## 📚 Coding in:
 
- ##
- 
- ### 📚 Coding in:
-<a  href="https://code.visualstudio.com" target="_blank"> ![VSCode Badge](https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white)</a>
-<a href="https://nodejs.org" target="_blank"> ![Node.js Badge](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)</a>
-<a href="https://reactjs.org/" target="_blank"> ![React Badge](https://img.shields.io/badge/-React-blue?style=flat&logo=React&logoColor=white)</a>
+- ![VSCode Badge](https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+- ![Node.js Badge](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
+- ![React Badge](https://img.shields.io/badge/-React-blue?style=flat&logo=React&logoColor=white)
+- ![Angular Badge](https://img.shields.io/badge/-Angular-FF0000?style=flat&logo=angular&logoColor=white)
 
-## 
+## :link: 🕵️‍♂️ Projetos
+- <h2 style="font-size: 18px; font-family: sans-serif;">🗽 <a href="https://github.com/Pedro-Wilker/Finans" style="text-decoration: none;" >Finans</a> </h2>
+- <h2 style="font-size: 18px; font-family: sans-serif;">🖥 <a href="https://github.com/Pedro-Wilker/Clone-YoutubeReact" style="text-decoration: none;" >Clone Youtube</a> </h2>
+- <h2 style="font-size: 18px; font-family: sans-serif;">👨‍🌾📲 <a href="https://github.com/Pedro-Wilker/App-Orcamento-Fazendas" style="text-decoration: none;" >App Orcamento Fazendas</a> </h2>
+- <h2 style="font-size: 18px; font-family: sans-serif;">📰 <a href="https://github.com/Pedro-Wilker/tecblog" style="text-decoration: none;" >TecBlog</a> </h2>
+- <h2 style="font-size: 18px; font-family: sans-serif;">🐱<a href="https://github.com/Pedro-Wilker/Pokedex-G1" style="text-decoration: none;" >PokeDex</a> </h2>
+- <h2 style="font-size: 18px; font-family: sans-serif;">📡<a href="https://github.com/Pedro-Wilker/Radar" style="text-decoration: none;" >Radar Detector de Objetos</a> </h2>
+- <h2 style="font-size: 18px; font-family: sans-serif;">🧠<a href="https://github.com/Pedro-Wilker/Jogo-da-Memoria" style="text-decoration: none;" >Jogo Da Memória Rick and Morty</a> </h2>
+- <h2 style="font-size: 18px; font-family: sans-serif;">📩<a href="https://github.com/Pedro-Wilker/MPEMAIL" style="text-decoration: none;" >MPEMAIL</a> </h2>
+- <h2 style="font-size: 18px; font-family: sans-serif;">🦟<a href="https://github.com/Pedro-Wilker/GameMataMosquito" style="text-decoration: none;" >Mata Mosquito</a> </h2>
 
-### :link: Social:
 
- [![linkedin](	https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-wilker-4a6b96217/)
- [![youtube](	https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCP4ZLMxtRelgMNIePqaWfoA) <br/>
- [![twitter]( https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/BLUBR113)
- [![stackoverflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/19881474/pew1)
+## :link: 🤵 Experiência
+- Desenvolvedor de Software na Emepresa Sistemica (2023 - Presente)
+- Estagiário de Desenvolvimento de Sistemas na Empresa SMART4SISTEMAS (2023- Presente) 
 
-##
 
- <div>
-  <a href="https://github.com/Pedro-Wilker">
+
+## :link: Social:
+
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-wilker-4a6b96217/)
+[![YouTube Badge](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCP4ZLMxtRelgMNIePqaWfoA)
+[![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/BLUBR113)
+[![Stack Overflow Badge](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/19881474/pew1)
+[![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/pewilk3r/)
+
+<div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pedro-wilker&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedro-wilker&layout=compact&langs_count=7&theme=dark"/>
 </div>
-  
-<br>
-<h3 align="center">"O Futuro tende a chegar mais cedo do que você imagina"</h3>
 
- ##
- 
-
+<h3 align="center">"O futuro tende a chegar mais cedo do que você imagina."</h3>
