@@ -4,7 +4,7 @@
 
 # :man_technologist: Pedro Wilker - Software Developer
 
-Hello, I'm Pedro Wilker, a computer science student passionate about technology. I started my journey in the tech world at the age of 20, and today I'm focused on data analysis and web development.
+<h3>Hello, I'm Pedro Wilker, a computer science student passionate about technology. I started my journey in the tech world at the age of 20, and today I'm focused on data analysis and web development. </h3>
 
 ## 📖 Studying:
 
