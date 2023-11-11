@@ -8,9 +8,10 @@ Hello, I'm Pedro Wilker, a computer science student passionate about technology.
 
 ## 📖 Studying:
 
-- ![HTML5 Badge](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-- ![CSS3 Badge](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+- ![Angular Badge](https://img.shields.io/badge/-Angular-FF0000?style=flat&logo=angular&logoColor=white)
 - ![JavaScript Badge](https://img.shields.io/badge/-JavaScript-yellow?style=flat&logo=javascript&logoColor=white)
+- ![Python Badge](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
 
 ## 📜  Languages:
 
