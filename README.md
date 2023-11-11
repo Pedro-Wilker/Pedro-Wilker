@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="600px" src="https://github.com/Pedro-Wilker/Pedro-Wilker/assets/81252209/a8c2de40-e16e-49f1-8f97-829cf16423a6" />
+  <img width="400px" heigth="200px" src="https://github.com/Pedro-Wilker/Pedro-Wilker/assets/81252209/23a0dbf1-963a-4c03-8369-cab47f141688" />
 </p>
 
 # :man_technologist: Pedro Wilker - Software Developer
@@ -69,3 +69,7 @@ Hello, I'm Pedro Wilker, a computer science student passionate about technology.
 </div>
 
 <h3 align="center">"The future tends to come sooner than you think."</h3>
+
+<p align="center">
+  <img width="400px" heigth="200px"src="https://github.com/Pedro-Wilker/Pedro-Wilker/assets/81252209/1b07f6a0-cfbb-4d38-82c0-5571b735b7ba" />
+</p>
