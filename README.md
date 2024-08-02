@@ -36,7 +36,6 @@
 
 
 ## :link: 🤵 Experience
-- <h3> Desenvolvedor de Software na Emepresa Sistemica (2023 - Presente) </h3>
 - <h3> Estagiário de Desenvolvimento de Sistemas na Empresa SMART4SISTEMAS (2023) </h3>
 - <h3> Programador Junior em Desenvolvimento de Sistemas na Empresa SMART4SISTEMAS (2024 - Presente) </h3>
 <hr/>
