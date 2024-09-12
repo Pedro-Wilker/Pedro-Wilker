@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150" src="https://github.com/Pedro-Wilker/Pedro-Wilker/assets/81252209/23a0dbf1-963a-4c03-8369-cab47f141688"  />
+  <img width="300" height="300" src="https://github.com/Pedro-Wilker/Pedro-Wilker/assets/81252209/23a0dbf1-963a-4c03-8369-cab47f141688"  />
 </div>
 
 ###
