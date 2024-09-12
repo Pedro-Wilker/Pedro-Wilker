@@ -24,15 +24,17 @@
 
 ###
 
-<h3 align="left">👩‍💻  About Me</h3>
+<h3 align="center">👩‍💻  About Me</h3>
 
 ###
+
+<br clear="both">
 
 <p align="left">I'm ... from ....<br><br>- 🔭 I’m working as FullStack Developer<br>- 📚 I am currently learning cybersecurity and computer networking at Cisco Network Academy and I am studying GoLang.<br>- ⚡ In my free time I go running and go to the gym, but I like to study philosophy.</p>
 
 ###
 
-<h3 align="left">🛠 Language and tools</h3>
+<h3 align="center">🛠 Language and tools</h3>
 
 ###
 
@@ -60,7 +62,7 @@
 
 ###
 
-<h3 align="left">🔥   My Stats :</h3>
+<h3 align="center">🔥   My Stats :</h3>
 
 ###
 
