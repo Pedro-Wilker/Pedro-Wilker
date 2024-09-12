@@ -31,7 +31,7 @@
 
 <br clear="both">
 
-<p align="left">I'm ... from ....<br><br>- 🔭 I’m working as FullStack Developer<br>- 📚 I am currently learning cybersecurity and computer networking at Cisco Network Academy and I am studying GoLang.<br>- ⚡ In my free time I go running and go to the gym, but I like to study philosophy.</p>
+<p align="left">I'm from Brazil.<br><br>- 🔭 I’m working as FullStack Developer<br>- 📚 I am currently learning cybersecurity and computer networking at Cisco Network Academy and I am studying GoLang.<br>- ⚡ In my free time I go running and go to the gym, but I like to study philosophy.</p>
 
 ###
 
