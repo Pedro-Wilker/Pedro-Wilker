@@ -1,7 +1,3 @@
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Pedro-Wilker.Pedro-Wilker&"  />
-</div>
-
 ###
 
 <h1 align="center">hey there 👋</h1>
@@ -17,6 +13,10 @@
 <p align="left">I'm from Brazil.<br><br>- 🔭 I’m working as FullStack Developer<br>- 📚 I am currently learning cybersecurity and computer networking at Cisco Network Academy and I am studying GoLang.<br>- ⚡ In my free time I go running and go to the gym, but I like to study philosophy.</p>
 
 ###
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Pedro-Wilker.Pedro-Wilker&"  />
+</div>
 
 ###
 
