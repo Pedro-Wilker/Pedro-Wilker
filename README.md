@@ -1,6 +1,4 @@
-<div align="center">
-  <img width="300" height="300" src="https://github.com/Pedro-Wilker/Pedro-Wilker/assets/81252209/23a0dbf1-963a-4c03-8369-cab47f141688"  />
-</div>
+
 
 ###
 
@@ -71,6 +69,10 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Pedro-Wilker&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="250" alt="stats graph"  />  <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Pedro-Wilker&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />   <br/>
   <img src="https://streak-stats.demolab.com?user=Pedro-Wilker&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
+
+<div align="center">
+  <img width="300" height="300" src="https://github.com/Pedro-Wilker/Pedro-Wilker/assets/81252209/23a0dbf1-963a-4c03-8369-cab47f141688"  />
 </div>
 
 ###
