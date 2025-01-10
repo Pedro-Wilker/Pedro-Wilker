@@ -1,22 +1,17 @@
-###
 
-<h1 align="center">Hey there 👋</h1>
 
-###
+<h1>Pedro Wilker</h1>
 
-<h3 align="center">👩‍💻 About Me</h3>
 
-###
-
-<br clear="both">
-
-<p align="left">I'm from Brazil.<br><br>- 🔭 I’m working as FullStack Developer<br>- 📚 I am currently learning cybersecurity and computer networking at Cisco Network Academy and I am studying GoLang.<br>- ⚡ In my free time I go running and go to the gym, but I like to study philosophy.</p>
+<h3>👩‍💻About Me</h3>
 
 ###
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Pedro-Wilker.Pedro-Wilker&"  />
-</div>
+<p align="left">
+ <h4>  I'm from Brazil.</h4>
+ <h4>🔭 I’m working as FullStack Developer</h4> <h4>📚 I am currently learning cybersecurity and computer networking at Cisco Network Academy and I am studying GoLang.</h4>
+ <h4>⚡ In my free time I go running and go to the gym, but I like to study philosophy.</h4>
+</p> 
 
 ###
 
@@ -29,11 +24,9 @@
 
 </div>
 
-###
 
-<h3 align="center">🛠 Language and tools</h3>
 
-###
+### 🛠 Language and tools
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" height="40" alt="go logo"  />
@@ -55,13 +48,21 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" alt="sqlite logo"  />
+  <img 
+    width="30px" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" 
+/>
+  <img 
+    width="30px" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
+/>
+  <img 
+    width="30px" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
+/>
 </div>
 
-###
-
-<h3 align="center">🔥   My Stats :</h3>
-
-###
+### 🔥My Stats 
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Pedro-Wilker&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="250" alt="stats graph"  />  <br/>
@@ -74,3 +75,6 @@
 </div>
 
 ###
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Pedro-Wilker.Pedro-Wilker&" />
+</div>
