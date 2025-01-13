@@ -8,9 +8,20 @@
 ###
 
 <p align="left">
- <h4>  I'm from Brazil.</h4>
- <h4>🔭 I’m working as FullStack Developer</h4> <h4>📚 I am currently learning cybersecurity and computer networking at Cisco Network Academy and I am studying GoLang.</h4>
- <h4>⚡ In my free time I go running and go to the gym, but I like to study philosophy.</h4>
+ <h4> Hello! I am Pedro Wilker, I have a degree in Computer Science, and I am from Brazil.</h4>
+ <h4>🔭 I have been a full-stack developer for 3 years.</h4> <h4>📚 My main languages are Python, Java, and JavaScript, and my main frameworks are Spring Boot, React, and Node.js.</h4>
+ <h4>
+
+<ul>
+  <li>Languages:
+    <ul>
+      <li>Portuguese: Native </li>
+      <li>English: Intermediate  </li>
+    </ul>
+  </li>
+</ul>
+
+ </h4>
 </p> 
 
 ###
