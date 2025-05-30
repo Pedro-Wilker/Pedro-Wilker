@@ -9,7 +9,7 @@
 
 <p align="left">
  <h4> Hello! I am Pedro Wilker, I have a degree in Computer Science, and I am from Brazil.</h4>
- <h4>🔭 I have been a full-stack developer for 3 years.</h4> <h4>📚 My main languages are Python, Java, and JavaScript, and my main frameworks are Spring Boot, React, and Node.js.</h4>
+ <h4>🔭 I have been a full-stack developer for 3 years.</h4> <h4>📚 My main languages are Python, Java, JavaScript, TypeScrip, and Go, and my main frameworks are Spring Boot, React, and Node.js.</h4>
  <h4>
 
 <ul>
