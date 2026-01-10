@@ -1,30 +1,79 @@
+<h1 align="center">Pedro Wilker</h1>
+<h3 align="center">Full Stack Software Developer</h3>
 
+<p align="center">
+Computer Science graduate with experience building scalable web systems, data automation pipelines and enterprise solutions for public and private sectors.
+</p>
 
-<h1>Pedro Wilker</h1>
+---
 
+### 👨‍💻 About Me
 
-<h3>👩‍💻About Me</h3>
+I am a Full Stack Developer with 3+ years of experience working on enterprise and government systems focused on data processing, automation and high-volume transactional platforms.
 
-###
+I have worked on projects that handle large-scale datasets, RESTful APIs, dashboards and management systems used by dozens of municipalities and public institutions, including solutions processing more than **74,000 monthly transactions** for the National ID system (CIN).
 
-<p align="left">
- <h4> Hello! I am Pedro Wilker, I have a degree in Computer Science, and I am from Brazil.</h4>
- <h4>🔭 I have been a full-stack developer for 3 years.</h4> <h4>📚 My main languages are Python, Java, JavaScript, TypeScrip, and Go, and my main frameworks are Spring Boot, React, Go, Python and Node.js.</h4>
- <h4>
+My background combines backend architecture, API design, and modern frontend development, always focused on performance, reliability and maintainability.
 
-<ul>
-  <li>Languages:
-    <ul>
-      <li>Portuguese: Native </li>
-      <li>English: Intermediate  </li>
-    </ul>
-  </li>
-</ul>
+---
 
- </h4>
-</p> 
+### 🧰 Tech Stack
 
-###
+**Backend**
+- Java (Spring Boot)
+- Node.js
+- Python  
+- RESTful APIs
+- Microservices
+- SQL (PostgreSQL, MySQL)
+
+**Frontend**
+- Angular (9, 17, 20)
+- React (Vite, Next.js)
+- TypeScript
+- HTML, CSS
+
+**DevOps & Tools**
+- Docker
+- Git / GitLab
+- CI/CD
+- Linux
+
+---
+
+### 💼 Professional Experience
+
+**Full Stack Developer — Public Sector Systems**  
+Development of web and mobile systems for public administration, including tax, HR, procurement and citizen services modules, used by more than **60 municipalities**.  
+Worked with Java, Spring Boot, Angular, ZK, Python, TypeScript and MySQL, building APIs, integrations and scalable architectures.
+
+**Junior Software Developer — SAEB (Bahia State Administration)**  
+Designed and implemented a platform to automate data collection from **417 municipalities** related to SAC services.  
+Built frontend applications (Angular + React) and backend APIs (Node.js) to replace manual Excel workflows, identifying over **140% data divergence** and improving reliability of the National ID (CIN) program.
+
+---
+
+### 🚀 Key Projects
+
+- **CIN Data Platform (SAEB)**  
+  Automated processing of high-volume public service data, integrated into systems handling **74,000+ monthly transactions**.
+
+- **Municipal Tax & Services Platform**  
+  Microservices-based system for managing public taxes and citizen services across multiple municipalities.
+
+- **Camaleão dos Sabores**  
+  Restaurant management system (Web + Mobile) using Next.js, React Native, Node.js and PostgreSQL.
+
+---
+
+### 🌍 Languages
+
+- Portuguese — Native  
+- English — Intermediate  
+
+---
+
+### 📫 Connect with me
 
 <div align="center">
 
@@ -35,58 +84,11 @@
 
 </div>
 
+---
 
-
-### 🛠 Language and tools
-
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" height="40" alt="go logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" alt="angularjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="40" alt="vuejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo"  />
-  <br/>
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" alt="sqlite logo"  />
-  <img 
-    width="41" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" 
-/>
-  <img 
-    width="41" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
-/>
-  <img 
-    width="41" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-/>
-</div>
-
-### 🔥My Stats 
+### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Pedro-Wilker&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="250" alt="stats graph"  />  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Pedro-Wilker&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />   <br/>
-  <img src="https://streak-stats.demolab.com?user=Pedro-Wilker&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
-
-<div align="center">
-  <img width="300" height="300" src="https://github.com/Pedro-Wilker/Pedro-Wilker/assets/81252209/23a0dbf1-963a-4c03-8369-cab47f141688"  />
-</div>
-
-###
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Pedro-Wilker.Pedro-Wilker&" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Pedro-Wilker&show_icons=true&theme=dracula" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Pedro-Wilker&layout=compact&theme=dracula" height="180"/>
 </div>
