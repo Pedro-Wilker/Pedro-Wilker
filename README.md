@@ -84,11 +84,4 @@ Built frontend applications (Angular + React) and backend APIs (Node.js) to repl
 
 </div>
 
----
 
-### 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Pedro-Wilker&show_icons=true&theme=dracula" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Pedro-Wilker&layout=compact&theme=dracula" height="180"/>
-</div>
