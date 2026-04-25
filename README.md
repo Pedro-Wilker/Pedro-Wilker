@@ -12,16 +12,6 @@
 
 > Engenheiro de software com mais de 3 anos em sistemas de alta criticidade. Desenvolvi plataformas de dados transacionais para órgãos estaduais da Bahia, processando mais de **74.000 atendimentos mensais** da Carteira de Identidade Nacional. Trabalhei com integração de dados de **417 municípios** e sistemas utilizados por **+60 prefeituras** — sempre com foco em integridade, rastreabilidade e confiabilidade.
 
-<br>
-
-<div align="center">
-
-| 3+ anos | 60+ municípios | 74k+ / mês |
-|:---:|:---:|:---:|
-| de experiência | atendidos | transações em produção |
-
-</div>
-
 ---
 
 ### 🛠 Stack
